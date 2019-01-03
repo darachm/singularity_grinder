@@ -10,7 +10,7 @@ MAINTAINER darachm
     
 %post
 
-    apt-get -y update
+#    apt-get -y update
     apt-get -y install grinder
 
 %test
